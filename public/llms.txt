@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-b3d1b9e7.zappy5.app
+https://example.com
 שירותי עגורן תעשייתיים בדגש על בטיחות ודיוק ללא פשרות. נמרוד הרמות מביאה ניסיון עשיר ופתרונות הרמה מותאמים אישית לכל פרויקט. צרו קשר עוד היום לקבלת הצעת מחיר משתלמת.
 
 ### שירותים
-https://-b3d1b9e7.zappy5.app/services
+https://example.com/services
 מגוון שירותי עגורן מתקדמים הכוללים תחזוקה, חיזוק ופתרונות הרמה מורכבים. אנו מתמחים בביצוע פרויקטים תעשייתיים בדיוק מירבי ובטיחות ללא פשרות. גלו את השירות שייקח אתכם הכי גבוה שאפשר.
 
 ### אודות
-https://-b3d1b9e7.zappy5.app/about
+https://example.com/about
 נמרוד הרמות מובילה בתחום שירותי העגורן התעשייתיים בזכות מחויבות בלתי מתפשרת לבטיחות, מקצועיות וחדשנות. הכירו את הצוות שמבטיח שכל פרויקט הרמה יבוצע בסטנדרטים הגבוהים ביותר בתעשייה.
 
 ### צור קשר
-https://-b3d1b9e7.zappy5.app/contact
+https://example.com/contact
 מוכנים להרים את הפרויקט הבא שלכם לגבהים חדשים? צרו קשר עם נמרוד הרמות לייעוץ מקצועי, הצעת מחיר מותאמת אישית ושירות לקוחות אדיב. לחצו כאן ואנו נלווה אתכם בכל שלב.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-b3d1b9e7.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-b3d1b9e7.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-b3d1b9e7.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-b3d1b9e7.zappy5.app/contact
-- Endpoint: https://-b3d1b9e7.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Crane Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-b3d1b9e7.zappy5.app/sitemap.xml
-- Robots: https://-b3d1b9e7.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-b3d1b9e7.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
