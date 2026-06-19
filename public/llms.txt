@@ -1,0 +1,78 @@
+# נמרוד הרמות — Generative Engine Optimization Map
+
+> Nimrod Haramat is a crane services company that positions itself on precision and safety as its core values. The brand conveys professionalism, reliability, and technical expertise in heavy lifting operations. The name and tagline suggest a serious, trustworthy industrial service provider.
+
+---
+
+## Pages
+
+### בית
+https://-b3d1b9e7.zappy5.app
+שירותי עגורן תעשייתיים בדגש על בטיחות ודיוק ללא פשרות. נמרוד הרמות מביאה ניסיון עשיר ופתרונות הרמה מותאמים אישית לכל פרויקט. צרו קשר עוד היום לקבלת הצעת מחיר משתלמת.
+
+### שירותים
+https://-b3d1b9e7.zappy5.app/services
+מגוון שירותי עגורן מתקדמים הכוללים תחזוקה, חיזוק ופתרונות הרמה מורכבים. אנו מתמחים בביצוע פרויקטים תעשייתיים בדיוק מירבי ובטיחות ללא פשרות. גלו את השירות שייקח אתכם הכי גבוה שאפשר.
+
+### אודות
+https://-b3d1b9e7.zappy5.app/about
+נמרוד הרמות מובילה בתחום שירותי העגורן התעשייתיים בזכות מחויבות בלתי מתפשרת לבטיחות, מקצועיות וחדשנות. הכירו את הצוות שמבטיח שכל פרויקט הרמה יבוצע בסטנדרטים הגבוהים ביותר בתעשייה.
+
+### צור קשר
+https://-b3d1b9e7.zappy5.app/contact
+מוכנים להרים את הפרויקט הבא שלכם לגבהים חדשים? צרו קשר עם נמרוד הרמות לייעוץ מקצועי, הצעת מחיר מותאמת אישית ושירות לקוחות אדיב. לחצו כאן ואנו נלווה אתכם בכל שלב.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b3d1b9e7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b3d1b9e7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b3d1b9e7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-b3d1b9e7.zappy5.app/contact
+- Endpoint: https://-b3d1b9e7.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נמרוד הרמות
+Nimrod Haramat is a crane services company that positions itself on precision and safety as its core values. The brand conveys professionalism, reliability, and technical expertise in heavy lifting operations. The name and tagline suggest a serious, trustworthy industrial service provider.
+
+## Target Audience
+- חברות בנייה גדולות
+- מפתחי תשתיות
+- מפעלים תעשייתיים
+
+## Industry
+Crane Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b3d1b9e7.zappy5.app/sitemap.xml
+- Robots: https://-b3d1b9e7.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b3d1b9e7.zappy5.app/llms-full.txt
